@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806044738586",
+    "project_id": "olx-app-47c7b",
+    "storage_bucket": "olx-app-47c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806044738586:android:7c5a361af27a63bf4f9da3",
+        "android_client_info": {
+          "package_name": "lvsoftwares.olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806044738586-hauloi6npp377q1uk0s1qhhfo1h66hgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIL0EtKkZ2tFdUFoceAzqC9b49RBJzxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806044738586-hauloi6npp377q1uk0s1qhhfo1h66hgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
